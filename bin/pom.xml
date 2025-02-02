@@ -49,7 +49,6 @@
                 			<execution>
                     				<goals>
                         				<goal>cobertura</goal>
-                        				<goal>cobertura-report</goal>
                     				</goals>
                     				<phase>test</phase> 
                 			</execution>
